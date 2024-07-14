@@ -23,6 +23,9 @@
 1. Home environment control systems
 2. Agricultural and horticultural applications
 3. ndustrial applications
+  * Electrical circuit design:
+    <img width="242" alt="ESP 32" src="https://github.com/user-attachments/assets/5949c738-17d3-4753-acdf-4c078ceda421">
+
   * CODE :
 ```
 #include <DHTesp.h>
